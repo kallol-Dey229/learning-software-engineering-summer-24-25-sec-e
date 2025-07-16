@@ -4,3 +4,4 @@
 4.Create a Repositories.
 5.Install Git Bash.
 6.Connect git bash with my git hub repositories.
+7.learn commit command and push command.
