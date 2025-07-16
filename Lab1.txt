@@ -1,0 +1,6 @@
+1.Create group.
+2.Open git hub.
+3.Update git hub profile.
+4.Create a Repositories.
+5.Install Git Bash.
+6.Connect git bash with my git hub repositories.
